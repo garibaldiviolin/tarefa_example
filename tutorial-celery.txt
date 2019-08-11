@@ -1,0 +1,1 @@
+https://www.merixstudio.com/blog/django-celery-beat/
